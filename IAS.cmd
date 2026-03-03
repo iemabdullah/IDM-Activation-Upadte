@@ -8,9 +8,9 @@
 ::
 ::   IDM Activation Script (IAS)
 ::
-::   Homepages: https://github.com/hanmaoye/IDM-Activation-Script
+::   Homepages: https://github.com/iemabdullah/IDM-Activation-Upadte
 ::
-::       Email: hanmaoye@qq.com
+::       Email: iemabdullah@qq.com
 ::
 ::============================================================================
 
@@ -62,7 +62,7 @@ exit /b
 ::========================================================================================================================================
 
 set "blank="
-set "mas=https://github.com/hanmaoye/IDM-Activation-Script/wiki/"
+set "mas=https://github.com/iemabdullah/IDM-Activation-Upadte/wiki/"
 
 ::  Check if Null service is working, it's important for the batch script
 
@@ -286,7 +286,7 @@ echo:
 call :_color %_Green% "Enter a menu option in the Keyboard [1,0] :"
 choice /C:10 /N
 if !errorlevel!==2 rem
-if !errorlevel!==1 (start https://github.com/WindowsAddict/IDM-Activation-Script & start %mas%/idm-activation-script & exit /b)
+if !errorlevel!==1 (start https://github.com/WindowsAddict/IDM-Activation-Upadte & start %mas%/IDM-Activation-Upadte & exit /b)
 )
 )
 
@@ -400,7 +400,7 @@ echo:
 call :_color2 %_White% "             " %_Green% "Create By Piash"
 echo:            ___________________________________________________ 
 echo:
-echo:               Github: https://github.com/hanmaoye
+echo:               Github: https://github.com/iemabdullah
 echo:            ___________________________________________________ 
 echo:                                                               
 echo:               [1] Activate
@@ -418,7 +418,7 @@ choice /C:123450 /N
 set _erl=%errorlevel%
 
 if %_erl%==6 exit /b
-if %_erl%==5 start https://github.com/hanmaoye/IDM-Activation-Script& goto MainMenu
+if %_erl%==5 start https://github.com/iemabdullah/IDM-Activation-Upadte& goto MainMenu
 if %_erl%==4 start https://www.internetdownloadmanager.com/download.html & goto MainMenu
 if %_erl%==3 goto _reset
 if %_erl%==2 (set frz=1&goto :_activate)
@@ -939,3 +939,4 @@ exit /b
 
 ::========================================================================================================================================
 :: Leave empty line below
+
