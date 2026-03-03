@@ -18,7 +18,7 @@ I want to clarify that I am not the original author of this script. My main purp
 
 Latest version - v1.2 (Feb 12, 2024)
 
-[GitHub](https://github.com/iemabdullah/IDM-Activation-Script)
+[GitHub](https://github.com/iemabdullah/IDM-Activation-Upadte)
 
 # Download / How to Use It?
 
@@ -47,7 +47,7 @@ Or
 
 ```shell
 
-iwr -useb https://raw.githubusercontent.com/iemabdullah/IDM-Activation-Script/main/IAS.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/iemabdullah/IDM-Activation-Upadte/main/IAS.ps1 | iex
 
 ```
 
@@ -63,7 +63,7 @@ iwr -useb https://is.gd/iAS | iex
 
 * That's all. # Method 2 - Traditional
 
-* Download the file from [GitHub](https://github.com/iemabdullah/IDM-Activation-Script/archive/refs/heads/main.zip)
+* Download the file from [GitHub](https://github.com/iemabdullah/IDM-Activation-Upadte/archive/refs/heads/main.zip)
 
 * Right-click the downloaded compressed file and extract it.
 
@@ -136,7 +136,7 @@ iwr -useb https://is.gd/iAS | iex
 
 * The code used to restart the script via conhost.exe to avoid the terminal application has now been merged into the code that disables quick edit. Thanks to @abbodi1406.
 
-Updated full code from [WindowsAddict](https://massgrave.dev/idm-activation-script)
+Updated full code from [WindowsAddict](https://massgrave.dev/IDM-Activation-Upadte)
 
 ## v1.0
 
@@ -164,7 +164,7 @@ Updated full code from [WindowsAddict](https://massgrave.dev/idm-activation-scri
 
 ## v0.8
 
-* Moved the project to [Github](https://github.com/iemabdullah/IDM-Activation-Script)
+* Moved the project to [Github](https://github.com/iemabdullah/IDM-Activation-Upadte)
 
 * Minor bug fixes
 
@@ -172,9 +172,9 @@ Updated full code from [WindowsAddict](https://massgrave.dev/idm-activation-scri
 
 # Screenshots
 
-![IAS](https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/fafdb481-c497-464f-b1e6-9a4254eaf880)
+![IAS](https://github.com/lstprjct/IDM-Activation-Upadte/assets/88411318/fafdb481-c497-464f-b1e6-9a4254eaf880)
 
-![IAS_Freeze_Trial](https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/76b36582-8cf4-4d1e-870f-6e8e57c80a87)
+![IAS_Freeze_Trial](https://github.com/lstprjct/IDM-Activation-Upadte/assets/88411318/76b36582-8cf4-4d1e-870f-6e8e57c80a87)
 
 # Acknowledgements
 
@@ -188,7 +188,7 @@ Updated full code from [WindowsAddict](https://massgrave.dev/idm-activation-scri
 
 | [abbodi1406](https://github.com/abbodi1406) | Coding help |
 
-| WindowsAddict | Original author of [IAS](https://github.com/WindowsAddict/IDM-Activation-Script) |
+| WindowsAddict | Original author of [IAS](https://github.com/WindowsAddict/IDM-Activation-Upadte) |
 
 Thanks to IAS users for their attention, feedback, and assistance.
 
